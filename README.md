@@ -68,15 +68,18 @@ Progranulin (PGRN) is a glycoprotein with important roles in various biological 
 ## Citation
 If you use this tool in your research, please cite:
 
-Qiao, G., Lu, Y., Wu, J., Ren, C., Lin, R., & Zhang, C. (2025). Progranulin's Protective Mechanisms: A New Frontier in Cardiovascular Disease. *Cells*, Special Issue "Molecular Pathogenesis of Cardiovascular Diseases".
+Qiao, G.; Lu, Y.; Wu, J.; Ren, C.; Lin, R.; Zhang, C. Progranulin's Protective Mechanisms and Therapeutic Potential in Cardiovascular Disease. *Cells* 2025, 14, x. https://doi.org/10.3390/xxxxx
 
 ```bibtex
 @article{qiao2025progranulin,
-  title={Progranulin's Protective Mechanisms: A New Frontier in Cardiovascular Disease},
+  title={Progranulin's Protective Mechanisms and Therapeutic Potential in Cardiovascular Disease},
   author={Qiao, Gan and Lu, Yongxiang and Wu, Jianping and Ren, Chunyang and Lin, Roudian and Zhang, Chunxiang},
   journal={Cells},
+  volume={14},
+  pages={x},
   year={2025},
-  note={Special Issue "Molecular Pathogenesis of Cardiovascular Diseases"}
+  doi={10.3390/xxxxx},
+  url={https://doi.org/10.3390/xxxxx}
 }
 ```
 ## Contact
